@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Portal de Notas — Prática Aula 32
 
 Portal com sessions: login, adicionar notas, ver boletim com média e situação.
@@ -22,3 +23,6 @@ npm run dev
 | POST | /nota | Adicionar nota (0-10) |
 | POST | /limpar | Zerar notas |
 | GET | /sair | Destruir session |
+=======
+# Atividade-Aula-32
+>>>>>>> dcbb879f0febfd2550decafadcaaa845da594579
